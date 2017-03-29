@@ -17,4 +17,5 @@ git	branch	-D	a
 git	tag
 git	tag	v1.0
 git	checkout	v1.0
-如何测试？
+
+我是没明白设置vim编辑器的作用是什么，尝试设置成vs code又不知设置的是否正确
