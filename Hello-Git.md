@@ -17,3 +17,4 @@ git	branch	-D	a
 git	tag
 git	tag	v1.0
 git	checkout	v1.0
+如何测试？
