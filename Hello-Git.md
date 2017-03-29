@@ -33,3 +33,6 @@ git	checkout	v1.0
 
 - 用git commit提交版本时没有加-m,会进入vim,如何写入提交说明然后退出 - YChLu的回答 - SegmentFault https://segmentfault.com/q/1010000005979356/a-1020000005980392
 >按i然后写入，写入后按esc键，然后输入:wq
+
+- Commit message 和 Change log 编写指南 - 阮一峰的网络日志 http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+- 写出好的 commit message · Ruby China http://ruby-china.org/topics/15737
