@@ -25,3 +25,8 @@ git	checkout	v1.0
 - Git如何永久删除文件(包括历史记录) - shines77 - 博客园 http://www.cnblogs.com/shines77/p/3460274.html
 # 强力推荐
 - git学习笔记 - 简书 http://www.jianshu.com/p/e2a15d01284c
+
+将用户名下的gitconfig
+>[core]
+>	editor = Code
+删除
