@@ -30,3 +30,6 @@ git	checkout	v1.0
 >[core]
 >	editor = Code
 删除
+
+- 用git commit提交版本时没有加-m,会进入vim,如何写入提交说明然后退出 - YChLu的回答 - SegmentFault https://segmentfault.com/q/1010000005979356/a-1020000005980392
+>按i然后写入，写入后按esc键，然后输入:wq
